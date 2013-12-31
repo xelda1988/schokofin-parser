@@ -1,0 +1,14 @@
+Saldo
+5 Mai
+2001
+2 5
+Posten
+Betrag
+Geld
+          1919430.69
+Erlös
+           306356.47
+Kosten
+           511924.96
+Gewinn/Verlust
+          -205568.49

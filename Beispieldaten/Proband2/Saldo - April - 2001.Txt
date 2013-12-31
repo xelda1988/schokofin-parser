@@ -1,0 +1,14 @@
+Saldo
+4 April
+2001
+2 5
+Posten
+Betrag
+Geld
+          2124999.18
+Erlös
+           408107.76
+Kosten
+           283744.05
+Gewinn/Verlust
+           124363.71

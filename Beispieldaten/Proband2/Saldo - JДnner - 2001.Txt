@@ -1,0 +1,14 @@
+Saldo
+1 Jänner
+2001
+2 5
+Posten
+Betrag
+Geld
+          1704610.83
+Erlös
+           266465.66
+Kosten
+           873937.84
+Gewinn/Verlust
+          -607472.17

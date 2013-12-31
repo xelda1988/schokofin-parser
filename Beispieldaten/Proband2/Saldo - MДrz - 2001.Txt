@@ -1,0 +1,14 @@
+Saldo
+3 März
+2001
+2 5
+Posten
+Betrag
+Geld
+          2000635.47
+Erlös
+           372608.01
+Kosten
+           249116.74
+Gewinn/Verlust
+           123491.28

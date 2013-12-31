@@ -1,0 +1,14 @@
+Saldo
+6 Juni
+2001
+2 5
+Posten
+Betrag
+Geld
+          2041449.65
+Erlös
+           385256.17
+Kosten
+           263237.21
+Gewinn/Verlust
+           122018.96

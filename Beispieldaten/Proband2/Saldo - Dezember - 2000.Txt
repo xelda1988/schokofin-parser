@@ -1,0 +1,14 @@
+Saldo
+12 Dezember
+2000
+2 5
+Posten
+Betrag
+Geld
+          2312083.00
+Erlös
+           231482.18
+Kosten
+           175522.18
+Gewinn/Verlust
+            55960.00

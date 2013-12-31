@@ -1,0 +1,14 @@
+Saldo
+2 Februar
+2001
+2 5
+Posten
+Betrag
+Geld
+          1975108.17
+Erlös
+           349649.59
+Kosten
+           535660.02
+Gewinn/Verlust
+          -186010.43
